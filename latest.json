@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0",
+  "versionCode": 11,
+  "versionName": "2.1",
   "url": "https://github.com/sebandmikelearncoding-sys/welcometothegshow/releases/latest",
-  "notes": "A full visual redesign — new colors, font, icon, and splash — plus nutrition reporting and calendar goal markers."
+  "notes": "Browse/edit past days' nutrition, colour-coded BP readings, calendar workout pop-ups, and crash reporting."
 }
