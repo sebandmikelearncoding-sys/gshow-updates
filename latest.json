@@ -1,6 +1,6 @@
 {
-  "versionCode": 13.1,
-  "versionName": "2.3.1",
+  "versionCode": 13,
+  "versionName": "2.3",
   "url": "https://github.com/sebandmikelearncoding-sys/welcometothegshow/releases/latest",
   "notes": "Add exercises to past workouts, a background-reliable rest-timer alert, editable custom exercises, custom date ranges in the Training report, smarter PR trophies, and fixes for a weigh-in delete crash and the keyboard covering inputs."
 }
