@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.3",
+  "versionCode": 14,
+  "versionName": "2.4",
   "url": "https://github.com/sebandmikelearncoding-sys/welcometothegshow/releases/latest",
-  "notes": "Add exercises to past workouts, a background-reliable rest-timer alert, editable custom exercises, custom date ranges in the Training report, smarter PR trophies, and fixes for a weigh-in delete crash and the keyboard covering inputs."
+  "notes": "A rock-solid rest-timer alert that fires on time in the background and plays through your headphones, per-exercise preset modes (reps / reps & weight / history), a cleaner daily-average weight graph, dates on all graphs, and the ability to delete an exercise from a past workout."
 }
