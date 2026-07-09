@@ -1,6 +1,7 @@
+
 {
-  "versionCode": 14,
-  "versionName": "2.4",
+  "versionCode": 15,
+  "versionName": "2.5",
   "url": "https://github.com/sebandmikelearncoding-sys/welcometothegshow/releases/latest",
-  "notes": "A rock-solid rest-timer alert that fires on time in the background and plays through your headphones, per-exercise preset modes (reps / reps & weight / history), a cleaner daily-average weight graph, dates on all graphs, and the ability to delete an exercise from a past workout."
+  "notes": "Custom icons for every muscle group across the app, reworked blood-pressure time-of-day windows (5am–1pm / 1pm–9pm / 9pm–5am), and a tidier What's New dialog."
 }
