@@ -1,7 +1,7 @@
-
 {
-  "versionCode": 15,
-  "versionName": "2.5",
+  "versionCode": 16,
+  "versionName": "2.6",
   "url": "https://github.com/sebandmikelearncoding-sys/welcometothegshow/releases/latest",
-  "notes": "Custom icons for every muscle group across the app, reworked blood-pressure time-of-day windows (5am–1pm / 1pm–9pm / 9pm–5am), and a tidier What's New dialog."
+  "driveUrl": "https://drive.google.com/drive/u/0/folders/1bxBdMfbln09pthDzjO0yhrAeFjf5e9I0",
+  "notes": "Quality-of-life update: the back button works everywhere, smarter prompts when adding exercises / deleting workouts / leaving an unsaved preset, workouts now show an active duration, a fix for the Dynamic Colors switch, and a Google Drive download option."
 }
