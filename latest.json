@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "2.6",
+  "versionCode": 17,
+  "versionName": "2.7",
   "url": "https://github.com/sebandmikelearncoding-sys/welcometothegshow/releases/latest",
   "driveUrl": "https://drive.google.com/drive/u/0/folders/1bxBdMfbln09pthDzjO0yhrAeFjf5e9I0",
-  "notes": "Quality-of-life update: the back button works everywhere, smarter prompts when adding exercises / deleting workouts / leaving an unsaved preset, workouts now show an active duration, a fix for the Dynamic Colors switch, and a Google Drive download option."
+  "notes": "Alternate exercises for presets (for when someone is on the butterfly machine), Snapshots for Social Media, Sort recently added food. History now appears in the cells to speed things up."
 }
